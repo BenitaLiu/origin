@@ -1,4 +1,5 @@
 IDEA test
 hello world2
+merge解决冲突
 
 idea提交
