@@ -1,3 +1,1 @@
-IDEA test
-hello world2
-merge合并
+hello 
